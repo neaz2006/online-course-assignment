@@ -18,6 +18,7 @@ const Coruse = () => {
             <div>
                 {
                  courses.map(course => <CourseDetails
+                    key={course.id}
                     handelAddCourse = {handelAddCourse}
                      course={course}
                      ></CourseDetails>)
