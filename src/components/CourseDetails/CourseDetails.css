@@ -1,0 +1,26 @@
+.maint-div{
+    border-right: 1px solid black;
+    display: flex;
+    border-bottom: 1px solid black;
+    margin: 5px;
+}
+.course-img{
+    width: 450px;
+}
+img{
+   width: 400px;
+   height: 250px;
+   border-radius: 10px;
+   border: 10px solid gray;
+   margin-left: 10px;
+   margin-top: 10px;
+}
+.details {
+   margin: 10px;
+  
+   
+}
+p{
+   font-size: 20px;
+   color: blue;
+}

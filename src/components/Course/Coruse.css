@@ -1,0 +1,7 @@
+.main-div{
+    display:flex;    
+    margin-top: 10px;
+}
+.cart{
+    width: 200px;
+}
